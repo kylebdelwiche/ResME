@@ -1,5 +1,5 @@
-# ResMe
-#Files and code necessary to run ResMe on a subset of hydropower reservoirs
+# ResME
+#Files and code necessary to run ResME on a subset of hydropower reservoirs
 Necessary input files to run ResME include:
   
   #Reservoirs_table.xlsx (provided in ResME Github folder)
